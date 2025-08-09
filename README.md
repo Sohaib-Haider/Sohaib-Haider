@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="Black and White Futuristic Manager LinkedIn Background Photo" src="https://github.com/user-attachments/assets/bfc78585-311f-437c-9080-22aaa6289131" />
+
+
 - 👋 Hi, I’m Sohaib-Haider
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Data Science
